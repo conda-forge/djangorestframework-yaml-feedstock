@@ -3,7 +3,7 @@ About djangorestframework-yaml
 
 Home: https://github.com/jpadilla/django-rest-framework-yaml
 
-Package license: ISC
+Package license: BSD-3-Clause
 
 Feedstock license: BSD 3-Clause
 
